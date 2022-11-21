@@ -19,4 +19,4 @@ http://localhost:8080/customers/list
 ```
  http://localhost:8080/customers/{{customerId}}
 ```
-By `https://www.linkedin.com/in/suryatejamuthyala/`
+
